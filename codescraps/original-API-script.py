@@ -1,3 +1,5 @@
+#For default settings. Default Location: Downtown Toronto.
+#Make sure you have installed the neccessary software using pip before using (pip commands in API-Install.py).
 import openmeteo_requests
 
 import requests_cache
