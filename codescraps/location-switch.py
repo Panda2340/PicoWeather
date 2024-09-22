@@ -1,7 +1,7 @@
 #This script allows the user to press a button to change the location they are viewing the weather for.
 location = 0
 #0 - Toronto, ON
-#1 - New York City
+#1 - New York City, NY
 #2 - Buffalo, NY
 #3 - London, UK
 #4 - Vancouver, BC
